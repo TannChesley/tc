@@ -1,0 +1,5 @@
+This is a simple text file used to setup Git.
+this is the second change to test version control
+this is the third change to the file
+this is the forth change
+this is the fifth change
